@@ -1,6 +1,5 @@
 {
   "name": "Panda",
-	"varsion": "0.2.0",
   "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1846,7 +1845,7 @@
     }
   ],
   "colors": {
-    "foreground": "#dbdbdb",
+    "foreground": "#666",
     "focusBorder": "#0086ff",
     "selection.background": "#008aff36",
     "scrollbar.shadow": "#ffffff00",

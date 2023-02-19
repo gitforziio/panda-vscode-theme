@@ -2,7 +2,8 @@
   "name": "panda-roomcar",
   "displayName": "Panda Theme by RooMcar",
   "description": "Classical panda like eye care color theme.",
-  "version": "0.2.0",
+  "version": "0.2.1",
+  "repository": "https://github.com/gitforziio/panda-vscode-theme.git",
   "engines": {
     "vscode": "^1.75.0"
   },
