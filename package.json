@@ -1,0 +1,21 @@
+{
+  "name": "panda-roomcar",
+  "displayName": "Panda Theme by RooMcar",
+  "description": "Classical panda like eye care color theme.",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Panda",
+        "uiTheme": "vs",
+        "path": "./themes/Panda-color-theme.json"
+      }
+    ]
+  }
+}
